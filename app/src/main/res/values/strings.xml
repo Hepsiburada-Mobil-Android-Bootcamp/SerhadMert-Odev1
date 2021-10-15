@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HepsiburadaBootcamp1</string>
+    <string name="login_screen">LoginScreen</string>
+    <string name="create_account"><u>Create</u></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="profile">Profile</string>
+    <string name="continue_profile">Continue</string>
+    <string name="screen1">screen1</string>
+    <string name="livedata">livedata</string>
+</resources>
